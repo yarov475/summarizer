@@ -1,0 +1,1 @@
+name = """Effect of music therapy on anxiety and depression in patients with Alzheimer's type dementia: Randomised, controlled study"""
